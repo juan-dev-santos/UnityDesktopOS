@@ -1,0 +1,20 @@
+{
+  "name": "com.jdev.ui.desktop",
+  "version": "0.0.1",
+  "unity": "2023.1",
+  "displayName": "Desktop UI",
+  "description": "Desktop like UI elements to simulate an OS.",
+  "keywords": [
+    "2d",
+    "window",
+    "desktop"
+  ],
+  "category": "2D",
+  "dependencies": {
+    "com.unity.2d.common": "9.0.7",
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.collections": "1.2.4",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0"
+  }
+}
